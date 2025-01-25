@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: fintnessapp
+server:
+  port: 8080
